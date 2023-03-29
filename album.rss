@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Desktop</title>
+   	<link>.</link>
+        <generator>jAlbum 30.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="ITSA_202111_Login1/album.rss" title="ITSA_202111_Login1" thumbnail="ITSA_202111_Login1/thumbs/pc2.jpg" thumbnailWidth="32" thumbnailHeight="21" />
+    	<jalbum:link rel="sub" href="MyApplication/album.rss" title="MyApplication" />
+    	<jalbum:link rel="sub" href="%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86%E7%B2%BE%E9%81%B8%E7%85%A7%E7%89%87/album.rss" title="國家地理精選照片" thumbnail="%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86%E7%B2%BE%E9%81%B8%E7%85%A7%E7%89%87/cache/thumbs/01015_119.jpg" thumbnailWidth="160" thumbnailHeight="106" />
+    </channel>
+</rss>
