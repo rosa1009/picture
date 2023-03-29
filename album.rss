@@ -8,8 +8,16 @@
         <generator>jAlbum 30.1</generator>
    		<description></description>
         <jalbum:absolutePath></jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="ITSA_202111_Login1/album.rss" title="ITSA_202111_Login1" thumbnail="ITSA_202111_Login1/thumbs/pc2.jpg" thumbnailWidth="32" thumbnailHeight="21" />
-    	<jalbum:link rel="sub" href="MyApplication/album.rss" title="MyApplication" />
     	<jalbum:link rel="sub" href="%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86%E7%B2%BE%E9%81%B8%E7%85%A7%E7%89%87/album.rss" title="國家地理精選照片" thumbnail="%E5%9C%8B%E5%AE%B6%E5%9C%B0%E7%90%86%E7%B2%BE%E9%81%B8%E7%85%A7%E7%89%87/cache/thumbs/01015_119.jpg" thumbnailWidth="160" thumbnailHeight="106" />
+        <item>
+            <title>02</title>
+            <link>slides/02.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 15:57:11 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/02.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/02.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/02.jpg</guid>
+        </item>
     </channel>
 </rss>
